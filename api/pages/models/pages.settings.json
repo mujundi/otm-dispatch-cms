@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "pages",
+  "info": {
+    "name": "Pages"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "fields": {
+      "type": "dynamiczone",
+      "components": []
+    },
+    "page_name": {
+      "type": "string"
+    }
+  }
+}
