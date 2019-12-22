@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
+  "host": "167.114.153.121",
   "port": "${process.env.PORT || 1337}",
   "production": true,
   "proxy": {
