@@ -11,10 +11,16 @@
   "attributes": {
     "fields": {
       "type": "dynamiczone",
-      "components": []
+      "components": [
+        "banner.banner",
+        "text.paragraphs",
+        "text.options"
+      ]
     },
     "page_name": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }

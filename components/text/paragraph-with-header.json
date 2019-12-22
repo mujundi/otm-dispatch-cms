@@ -1,0 +1,19 @@
+{
+  "connection": "default",
+  "collectionName": "components_text_paragraph_with_headers",
+  "info": {
+    "name": "Paragraph with Header",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "required": true
+    },
+    "body": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "info": {
+    "name": "Banner",
+    "icon": "window-maximize"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "required": true,
+      "maxLength": 30
+    },
+    "Subheader": {
+      "type": "text",
+      "required": true
+    },
+    "background": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": true
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_banner_banners"
+}

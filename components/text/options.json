@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "components_text_options",
+  "info": {
+    "name": "Options",
+    "icon": "clipboard-list"
+  },
+  "options": {},
+  "attributes": {
+    "option": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text.option"
+    }
+  }
+}

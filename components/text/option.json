@@ -1,0 +1,14 @@
+{
+  "connection": "default",
+  "collectionName": "components_text_options",
+  "info": {
+    "name": "option",
+    "icon": "haykal"
+  },
+  "options": {},
+  "attributes": {
+    "option": {
+      "type": "string"
+    }
+  }
+}

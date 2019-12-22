@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "Paragraphs",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text.paragraph-with-header"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_text_paragraphs"
+}
