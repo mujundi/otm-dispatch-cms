@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "components_text_paragraphs",
   "info": {
     "name": "Paragraphs",
     "icon": "align-left"
@@ -10,7 +12,5 @@
       "repeatable": true,
       "component": "text.paragraph-with-header"
     }
-  },
-  "connection": "default",
-  "collectionName": "components_text_paragraphs"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "info": {
+    "name": "Form",
+    "icon": "scroll"
+  },
+  "options": {},
+  "attributes": {
+    "first_name": {
+      "type": "string"
+    },
+    "Last_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "message": {
+      "type": "text"
+    },
+    "reason_for_inquiry": {
+      "type": "string"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_fields_forms"
+}

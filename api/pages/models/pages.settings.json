@@ -13,8 +13,10 @@
       "type": "dynamiczone",
       "components": [
         "banner.banner",
-        "text.paragraphs",
-        "text.options"
+        "fields.paragraphs",
+        "fields.options",
+        "fields.questions",
+        "fields.form"
       ]
     },
     "page_name": {

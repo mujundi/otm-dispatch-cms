@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "Question",
+    "icon": "list-ul"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "text"
+    },
+    "Answer": {
+      "type": "text"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_text_questions"
+}
