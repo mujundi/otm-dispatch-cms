@@ -1,0 +1,18 @@
+{
+  "info": {
+    "name": "Contact Request"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "form": {
+      "type": "component",
+      "repeatable": false,
+      "component": "fields.form"
+    }
+  },
+  "connection": "default",
+  "collectionName": "contact_requests"
+}

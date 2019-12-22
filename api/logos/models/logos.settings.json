@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "logos",
   "info": {
     "name": "Logos"
   },
@@ -7,13 +9,11 @@
     "timestamps": true
   },
   "attributes": {
-    "Navigation_bar_logo": {
+    "navigation_bar_logo": {
       "model": "file",
       "via": "related",
       "plugin": "upload",
       "required": false
     }
-  },
-  "connection": "default",
-  "collectionName": "logos"
+  }
 }

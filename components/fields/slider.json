@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "Slider",
+    "icon": "poll-h"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_fields_sliders"
+}

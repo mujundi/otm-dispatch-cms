@@ -16,7 +16,9 @@
         "fields.paragraphs",
         "fields.options",
         "fields.questions",
-        "fields.form"
+        "fields.form",
+        "banner.home-banner",
+        "fields.slider"
       ]
     },
     "page_name": {
