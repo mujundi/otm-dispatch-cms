@@ -1,0 +1,15 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "otm-dispatch-cms",
+        "uri": "mongodb://root:H7CIQDb9cJUBnZqA@strapi-cms-shard-00-00-aif1s.mongodb.net:27017,strapi-cms-shard-00-01-aif1s.mongodb.net:27017,strapi-cms-shard-00-02-aif1s.mongodb.net:27017/test?ssl=true&replicaSet=strapi-cms-shard-0&authSource=admin&retryWrites=true&w=majority"
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
