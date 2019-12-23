@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "contact_requests",
   "info": {
     "name": "Contact Request"
   },
@@ -12,7 +14,5 @@
       "repeatable": false,
       "component": "fields.form"
     }
-  },
-  "connection": "default",
-  "collectionName": "contact_requests"
+  }
 }

@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "components_text_questions",
   "info": {
     "name": "Question",
     "icon": "list-ul"
@@ -8,10 +10,8 @@
     "question": {
       "type": "text"
     },
-    "Answer": {
+    "answer": {
       "type": "text"
     }
-  },
-  "connection": "default",
-  "collectionName": "components_text_questions"
+  }
 }

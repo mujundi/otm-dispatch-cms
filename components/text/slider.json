@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "components_text_sliders",
+  "info": {
+    "name": "slider",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    },
+    "icon": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

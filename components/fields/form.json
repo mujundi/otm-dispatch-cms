@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "components_fields_forms",
   "info": {
     "name": "Form",
     "icon": "scroll"
@@ -8,7 +10,7 @@
     "first_name": {
       "type": "string"
     },
-    "Last_name": {
+    "last_name": {
       "type": "string"
     },
     "email": {
@@ -20,7 +22,5 @@
     "reason_for_inquiry": {
       "type": "string"
     }
-  },
-  "connection": "default",
-  "collectionName": "components_fields_forms"
+  }
 }

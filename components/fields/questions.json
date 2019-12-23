@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "components_fields_questions",
   "info": {
     "name": "Questions",
     "icon": "question"
@@ -10,7 +12,5 @@
       "repeatable": true,
       "component": "text.question"
     }
-  },
-  "connection": "default",
-  "collectionName": "components_fields_questions"
+  }
 }
